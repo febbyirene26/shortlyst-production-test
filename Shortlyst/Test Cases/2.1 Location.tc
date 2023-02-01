@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Leads Backend Only</name>
+   <name>2.1 Location</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>8ee0a4dd-f9d5-47fe-9123-c0b80ba1c096</testCaseGuid>
+   <testCaseGuid>88809f88-af64-491b-93f2-59bcb149a9b5</testCaseGuid>
 </TestCaseEntity>
