@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add job titles or boolean</name>
+   <tag></tag>
+   <elementGuidId>5f0a9a71-a981-4a87-a0fe-68a21578f186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.align-items-center.click-area-xl.show-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='job-titles-filter']/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3e427247-5023-49ad-a940-38572eb24aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center click-area-xl show-pointer</value>
+      <webElementGuid>042e6281-33fc-4de1-8a21-6ca0d976d71d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add job titles or boolean</value>
+      <webElementGuid>98d0266c-2031-45da-9b63-d8bd2cfc7d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;job-titles-filter&quot;)/div[@class=&quot;d-flex align-items-center flex-wrap&quot;]/div[@class=&quot;mb-xl d-inline-block&quot;]/div[@class=&quot;d-flex align-items-center click-area-xl show-pointer&quot;]</value>
+      <webElementGuid>4a6d32c4-0f9e-48d2-801d-c35565260be3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='job-titles-filter']/div[2]/div/div</value>
+      <webElementGuid>3f7c37e8-e0c4-442a-a306-2a20427aa923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More'])[1]/following::div[3]</value>
+      <webElementGuid>2a30c1a5-ca2d-4eab-a85d-fa669c846a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('AND, NOT, OR, Quotes [', '&quot;', '', '&quot;', '], Parentheses [()]')])[1]/following::div[3]</value>
+      <webElementGuid>ee39fc7b-e6f0-40e5-b7a0-97bbc0bbd049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an option or add one'])[1]/preceding::div[4]</value>
+      <webElementGuid>9986cab2-b4f9-4d53-aa85-42aa87e4277f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/div/div[2]/div/div</value>
+      <webElementGuid>d3e2e9a5-266a-4019-bd2b-ab4fda1b0091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Add job titles or boolean' or . = ' Add job titles or boolean')]</value>
+      <webElementGuid>d1357b7e-fdde-48fe-8265-af7efb4b0cb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

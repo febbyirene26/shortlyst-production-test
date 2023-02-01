@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Learn More_add__input--text fs-14 for_d0dd67</name>
+   <tag></tag>
+   <elementGuidId>94fa9b4b-4deb-4c11-a1a3-73fd2e258249</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.add__input--text.fs-14.form-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f4bfb276-c2b9-4b3b-9910-94bb1eb8af17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>535f7964-6fa1-48f6-8b38-26696103886e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Add job titles or boolean</value>
+      <webElementGuid>e75392f2-2927-45aa-9b24-24daa2ce6587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add__input--text fs-14 form-control</value>
+      <webElementGuid>adc234c2-6953-436e-9d24-2e8ba8d7baf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;job-titles-filter&quot;)/div[@class=&quot;mb-xl&quot;]/div[@class=&quot;component__linkedin-select__add mb-xl d-flex align-items-center&quot;]/div[@class=&quot;add--input&quot;]/input[@class=&quot;add__input--text fs-14 form-control&quot;]</value>
+      <webElementGuid>2f33bb9e-0a05-485e-81b9-7cffff6e9e7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>c6347d0c-3751-46a6-8e62-193986b24c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='job-titles-filter']/div[3]/div/div/input</value>
+      <webElementGuid>66576b1d-f372-43ef-9e8c-227e73fc2f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/input</value>
+      <webElementGuid>ee68dca7-fae1-42e1-9936-cae6f03c2f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Add job titles or boolean']</value>
+      <webElementGuid>ad995c8d-2954-4872-a873-3ea9228600d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

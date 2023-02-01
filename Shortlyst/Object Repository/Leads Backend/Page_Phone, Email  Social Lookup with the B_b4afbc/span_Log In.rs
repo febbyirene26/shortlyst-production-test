@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log In</name>
+   <tag></tag>
+   <elementGuidId>27f462c0-6d44-491e-9d20-7cc30b5bd447</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ast-header-account-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ast-desktop-header']/div/div/div/div/div[3]/div[2]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>285588c0-acb4-471c-b957-3f6173c070db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ast-header-account-text</value>
+      <webElementGuid>98b5af1a-71fa-4f81-b559-12d088f32e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log In</value>
+      <webElementGuid>88d1918a-bf2d-4df2-9dfb-738e931d5c47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ast-desktop-header&quot;)/div[@class=&quot;ast-main-header-wrap main-header-bar-wrap&quot;]/div[@class=&quot;ast-primary-header-bar ast-primary-header main-header-bar site-header-focus-item&quot;]/div[@class=&quot;site-primary-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container&quot;]/div[@class=&quot;ast-builder-grid-row ast-builder-grid-row-has-sides ast-grid-center-col-layout&quot;]/div[@class=&quot;site-header-primary-section-right site-header-section ast-flex ast-grid-right-section&quot;]/div[@class=&quot;ast-builder-layout-element site-header-focus-item ast-header-account&quot;]/div[@class=&quot;ast-header-account-wrap&quot;]/a[@class=&quot;ast-header-account-link ast-header-account-type-text ast-account-action-link&quot;]/span[@class=&quot;ast-header-account-text&quot;]</value>
+      <webElementGuid>87017598-2666-4ed7-b6e1-87c60a19c04a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ast-desktop-header']/div/div/div/div/div[3]/div[2]/div/a/span</value>
+      <webElementGuid>5cb3ec51-f0a7-4c8e-bc93-1e418105b6e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::span[1]</value>
+      <webElementGuid>0bd98198-e08a-40ac-8169-6495c1c5366c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing'])[1]/following::span[1]</value>
+      <webElementGuid>99aeb59e-b2ac-47e1-a732-f291c91bf509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Started for free'])[1]/preceding::span[1]</value>
+      <webElementGuid>5e27ce45-fdaa-424a-bbfe-57c554671631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Started for free'])[2]/preceding::span[1]</value>
+      <webElementGuid>1423650c-84ff-47b8-8a6f-5965bb8ba2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log In']/parent::*</value>
+      <webElementGuid>fce83d43-e63d-4989-90a5-29d3890c1653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/span</value>
+      <webElementGuid>81c3bc90-c031-4e4a-8c10-76168066ea32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Log In' or . = 'Log In')]</value>
+      <webElementGuid>a25db5fc-0787-4d19-8af0-34ff10393ca6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

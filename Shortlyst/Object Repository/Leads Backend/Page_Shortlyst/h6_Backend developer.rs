@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Backend developer</name>
+   <tag></tag>
+   <elementGuidId>a06834c8-d998-4a29-a799-f45a8cd33a79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myTabContent']/div/div[2]/div[3]/div/h6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>af54ff8d-68a2-4cca-82ba-f965cf935a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0 fs-14 font-weight-bold mb-xs experience-info__title</value>
+      <webElementGuid>11d67c2e-203b-42b2-a603-ff19b78a7edd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Backend developer</value>
+      <webElementGuid>715f1134-86a4-40fa-8236-5b927fb0bd53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myTabContent&quot;)/div[@class=&quot;tab-pane fade active show&quot;]/div[@class=&quot;d-flex mb-xxl-4 p-relative&quot;]/div[@class=&quot;vertical-center experience-info&quot;]/div[1]/h6[@class=&quot;m-0 fs-14 font-weight-bold mb-xs experience-info__title&quot;]</value>
+      <webElementGuid>b4f67e5c-17c6-4ec8-a2ec-c6a5c3af58ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myTabContent']/div/div[2]/div[3]/div/h6</value>
+      <webElementGuid>702e93ee-7bcf-40e1-8d4a-b1df968b9029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See More'])[1]/following::h6[1]</value>
+      <webElementGuid>c45910bd-2931-43e6-aeb8-3b65b2822d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stack- GoLang- PHP- Java'])[1]/following::h6[1]</value>
+      <webElementGuid>c1330c75-9d5e-4f90-a830-be8caab85b14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soluções eSales | Logística, Financeiro, Analytics e File Transfer'])[2]/preceding::h6[1]</value>
+      <webElementGuid>b7070f95-9de0-4eeb-b7dd-84adfceb7129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='developer']/parent::*</value>
+      <webElementGuid>2c6e93a3-9ef7-4074-80b3-789864978a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/h6</value>
+      <webElementGuid>95cb8171-0ddb-41d0-801b-7c9294f7e5a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Backend developer' or . = 'Backend developer')]</value>
+      <webElementGuid>6729180a-7713-405e-b6ad-18b3195e67a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Category Development Senior Lead</name>
+   <tag></tag>
+   <elementGuidId>9fbe3864-e363-4f11-86f1-8382b6fc97d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.fs-24.font-weight-bolder.mr-s.text-truncate.mb-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>7a046bbf-3713-4205-8151-70053aaaefaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-24 font-weight-bolder mr-s text-truncate mb-0</value>
+      <webElementGuid>e4e2a9c1-2cee-4e6c-ae38-decfb4783ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Category Development Senior Lead</value>
+      <webElementGuid>71bfa6a9-ad8d-4fc5-9690-1283167a2db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;row bg-white border-left border-right filter-leads-section&quot;]/div[@class=&quot;col px-xxl-3 py-xxl-2 d-flex align-items-center&quot;]/h1[@class=&quot;fs-24 font-weight-bolder mr-s text-truncate mb-0&quot;]</value>
+      <webElementGuid>017f633f-b79a-4c5d-810a-806d33f005a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div/h1</value>
+      <webElementGuid>2ba6d905-530f-444f-ab43-06194c21ce3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leads'])[1]/preceding::h1[1]</value>
+      <webElementGuid>cb65bb80-becd-407b-a8d5-6c9f3dabea03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Category Development Senior Lead']/parent::*</value>
+      <webElementGuid>b1535e66-bd8c-4cc9-ac91-cd5599ba4622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>8dff509c-03f9-4003-9c8d-bdb234a54e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Category Development Senior Lead' or . = 'Category Development Senior Lead')]</value>
+      <webElementGuid>3e15c1b6-9c3d-498e-9601-208023ad1064</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
