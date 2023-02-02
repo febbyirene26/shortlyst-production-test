@@ -49,7 +49,7 @@ WebUI.click(findTestObject('Button/Page_Shortlyst/reset filter button'))
 
 WebUI.click(findTestObject('Button/Page_Shortlyst/add job titles button'))
 
-WebUI.setText(findTestObject('Button/Page_Shortlyst/input job title fields'), 'backend')
+WebUI.setText(findTestObject('Button/Page_Shortlyst/input job title fields'), GlobalVariable.jobTitle)
 
 inputedJob = WebUI.getAttribute(findTestObject('Button/Page_Shortlyst/input job title fields'), 'value').toLowerCase()
 
@@ -58,7 +58,7 @@ println(inputedJob)
 WebUI.sendKeys(findTestObject('Object Repository/Leads Backend/Page_Shortlyst/input_Learn More_add__input--text fs-14 for_d0dd67'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.selectOptionByValue(findTestObject('Button/Page_Shortlyst/dropdown current or past'), 'current_or_past', false)
+WebUI.selectOptionByValue(findTestObject('Button/Page_Shortlyst/dropdown current or past'), 'past_not_current', false)
 
 WebUI.delay(10)
 
@@ -104,11 +104,12 @@ for (int row = 1; row < 5; row++) {
             }
             
             if (count == 2) {
-                throw new com.kms.katalon.core.exception.StepFailedException((inputedJob + ' as past job is Not Found on Profile ' + row) + 
-                collumn) 
+                throw new com.kms.katalon.core.exception.StepFailedException(((inputedJob + ' as past job is Not Found on Profile ') + 
+                row) + collumn)
             }
         } else {
-            throw new com.kms.katalon.core.exception.StepFailedException((inputedJob + ' as past job is Not Found on Profile ' + row) + collumn)
+            throw new com.kms.katalon.core.exception.StepFailedException(((inputedJob + ' as past job is Not Found on Profile ') + 
+            row) + collumn)
         }
         
         WebUI.click(findTestObject('Button/Page_Shortlyst/button close leads slider'))
@@ -116,6 +117,4 @@ for (int row = 1; row < 5; row++) {
 }
 
 WebUI.closeBrowser()
-
-WebUI.getAttribute(findTestObject(null), '')
 

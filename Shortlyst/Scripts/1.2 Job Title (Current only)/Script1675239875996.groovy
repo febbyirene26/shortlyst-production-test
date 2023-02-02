@@ -38,7 +38,7 @@ WebUI.click(findTestObject('Button/Page_Shortlyst/reset filter button'))
 //Input the Job Title Filters --------------------------------------------------------------------------
 WebUI.click(findTestObject('Button/Page_Shortlyst/add job titles button'))
 
-WebUI.setText(findTestObject('Button/Page_Shortlyst/input job title fields'), 'backend' // Input Backend as the job
+WebUI.setText(findTestObject('Button/Page_Shortlyst/input job title fields'), GlobalVariable.jobTitle // Input Backend as the job
     )
 
 inputedJob = WebUI.getAttribute(findTestObject('Button/Page_Shortlyst/input job title fields'), 'value').toLowerCase()
@@ -83,7 +83,7 @@ for (int row = 1; row < 5; row++) {
 
                 if (expYear.toLowerCase().contains('present')) {
                     if (jobTitle.toLowerCase().contains(inputedJob)) {
-                        println(inputedJob + ' found on profile ' + row + collumn)
+                        println(((inputedJob + ' found on profile ') + row) + collumn)
 
                         break
                     } else {
@@ -95,8 +95,8 @@ for (int row = 1; row < 5; row++) {
                 }
             }
         } else {
-            throw new com.kms.katalon.core.exception.StepFailedException((((('present job as ') + inputedJob) + 
-            ' is Not Found on Profile ') + row) + collumn)
+            throw new com.kms.katalon.core.exception.StepFailedException(((('present job as ' + inputedJob) + ' is Not Found on Profile ') + 
+            row) + collumn)
         }
         
         WebUI.click(findTestObject('Button/Page_Shortlyst/button close leads slider'))
